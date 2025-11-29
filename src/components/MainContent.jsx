@@ -50,7 +50,7 @@ function MainContent() {
                 </div>
             </div>
         )}
-        {activeTab === "Experience" && (<h2>Experience Content</h2>)}
+        {activeTab === "Experience" && (<h2>Experience Content </h2>)}
         {activeTab === "Skills" && (<h2>Skills Content</h2>)}
         {activeTab === "Projects" && (<h2>Projects Content</h2>)}
       </div>
