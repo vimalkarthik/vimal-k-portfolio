@@ -247,6 +247,7 @@ img {
   text-transform: capitalize;
   display: flex;
   gap: 0.4rem;
+  flex-wrap: wrap;
 }
 .idName {
   color: var(--textGrey);
