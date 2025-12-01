@@ -48,7 +48,7 @@ function MainContent() {
                     St.joseph's college of engineering and Technology -
                     Thanjavur{" "}
                     <span className="idName">
-                      <img src={verified} alt="Verified" /> @SJCETThanjavur .
+                      <img src={verified} alt="Verified" /> @sjcet_tnj .
                       Aug 2019
                     </span>
                   </h2>
