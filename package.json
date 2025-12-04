@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@fontsource/inter": "^5.2.8",
     "fonts": "^0.0.2",
     "google": "^2.1.0",
     "react": "^19.2.0",
